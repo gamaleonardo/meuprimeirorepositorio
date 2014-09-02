@@ -1,0 +1,17 @@
+/*	--------------------------------------------------------------------------------------
+	Author: Leonardo Gama;
+	Email: le-nardogama@dcc.ufba.br;
+	Created: 08-26-2014;
+	Description: Stylesheet for example 1 of the book "Beginning Google Maps API 3";
+----------------------------------------------------------------------------------------  */
+body{ 
+ font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+ font-size: small; 
+ background: #fff; 
+}
+
+#map{
+	width: 100%;
+	height: 500px;
+	border: 1px solid #000;
+}
